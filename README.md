@@ -1,16 +1,3 @@
-# flutter_ninga_project_1
+# flutter Card Business
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hey gang, in this Flutter tutorial we'll put everything together that we've learnt so far about Flutter and create a mini app project (a ninja ID card!). We'll also take a look at a couple of new widgets - SizedBox and CircleAvatar
